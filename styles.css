@@ -7,6 +7,9 @@
 	align-content: center;
 	text-align: center;
 }
+h1 {
+	font-family: Ubuntu;
+}
 header {
 	text-align: center;
 	background-color: #02D433;
